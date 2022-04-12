@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Akaryakıt İstasyonu\Akaryakıt İstasyonu\Akaryakıt İstasyonu\bin\Debug\Akaryakıt İstasyonu.exe.config
+C:\Users\Administrator\Desktop\Akaryakıt İstasyonu\Akaryakıt İstasyonu\Akaryakıt İstasyonu\bin\Debug\Akaryakıt İstasyonu.exe
+C:\Users\Administrator\Desktop\Akaryakıt İstasyonu\Akaryakıt İstasyonu\Akaryakıt İstasyonu\bin\Debug\Akaryakıt İstasyonu.pdb
+C:\Users\Administrator\Desktop\Akaryakıt İstasyonu\Akaryakıt İstasyonu\Akaryakıt İstasyonu\obj\Debug\Akaryakıt İstasyonu.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Akaryakıt İstasyonu\Akaryakıt İstasyonu\Akaryakıt İstasyonu\obj\Debug\Akaryakıt_İstasyonu.Form1.resources
+C:\Users\Administrator\Desktop\Akaryakıt İstasyonu\Akaryakıt İstasyonu\Akaryakıt İstasyonu\obj\Debug\Akaryakıt_İstasyonu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Akaryakıt İstasyonu\Akaryakıt İstasyonu\Akaryakıt İstasyonu\obj\Debug\Akaryakıt İstasyonu.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Akaryakıt İstasyonu\Akaryakıt İstasyonu\Akaryakıt İstasyonu\obj\Debug\Akaryakıt İstasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Akaryakıt İstasyonu\Akaryakıt İstasyonu\Akaryakıt İstasyonu\obj\Debug\Akaryakıt İstasyonu.exe
+C:\Users\Administrator\Desktop\Akaryakıt İstasyonu\Akaryakıt İstasyonu\Akaryakıt İstasyonu\obj\Debug\Akaryakıt İstasyonu.pdb
